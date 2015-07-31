@@ -5,6 +5,3 @@ Why might you want to always pull changes manually rather than having Git automa
 your remote repository?
 	Because it would pull changes even made by other people. In the way it works today I can choose
 	what commits I want to up-to-date.
-
-When would you want to use a remote repository rather than keeping all your work local?
-  Is a good thing to use a remote repository mainly when we are working with other people.
