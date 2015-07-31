@@ -13,3 +13,14 @@ What are some situations when branches would be helpful in keeping your history 
 How would branches help?
 	Branches would be helpful in situations that include beta versions of the project. 
 	The branches can maintain the beta versions separated of the official version.
+
+How do the diagrams help you visualize the branch structure?
+	The diagrams shows us the logs of each branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	Merging two branches, how you can expect, their differences are merged. In the diagram the neither branchs 
+	disappear because bothstill exist.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	When Git merges automatically it is more practical. But when don't then we have to analyse the code and
+	make the appropriate changes.
