@@ -11,3 +11,6 @@ Describe the differences between forks, clones, and branches. When would you use
 	continues on the site's server. When we branch a ramification on the commits. The fork is a better
 	option rather than clone in the case that you want to make your own version of some project. Or if
 	you want to make changes in the code and don't have permission to push commits there.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	Having a local copy of the remote stored we can acces it without a internet connection.
